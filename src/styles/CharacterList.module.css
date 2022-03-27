@@ -1,0 +1,9 @@
+.characterList{
+    padding: 30px 30px 80px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    background-color: rgba(231, 15, 15, 0.781);
+}
